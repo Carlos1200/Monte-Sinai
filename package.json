@@ -1,0 +1,22 @@
+{
+  "name": "monte-sinai",
+  "version": "1.0.0",
+  "description": "Pagina web para iglesia monte sinai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos1200/Monte-Sinai.git"
+  },
+  "author": "Carlos Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos1200/Monte-Sinai/issues"
+  },
+  "homepage": "https://github.com/Carlos1200/Monte-Sinai#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.0.1"
+  }
+}
